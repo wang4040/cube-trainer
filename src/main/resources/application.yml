@@ -1,0 +1,8 @@
+database:
+  hibernate:
+    url: jdbc:mysql://cube-database.c0sjtzbvmwnd.us-east-1.rds.amazonaws.com:3306/cubing_algs
+    driver: com.mysql.cj.jdbc.Driver
+    username: admin
+    password: r7k_ABFBKi%,c:D
+    dialect: org.hibernate.dialect.MySQLDialect
+    showsql: true
